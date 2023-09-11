@@ -1,0 +1,2022 @@
+[
+  {
+    "trend": [
+      {
+        "id": "82ee6a59-ef96-4712-a3a9-c867ed39490c",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T06:53:18.706Z",
+        "updated_at": "2023-09-11T19:11:27.626Z"
+      },
+      {
+        "id": "dc0bd676-df47-4f4a-b761-f615a1cac47e",
+        "name": "Technology",
+        "description": "Cutting-edge technology",
+        "created_at": "2023-09-11T04:09:11.725Z",
+        "updated_at": "2023-09-11T20:52:10.294Z"
+      },
+      {
+        "id": "e297fa65-6678-463f-92da-127c221f97c4",
+        "name": "Health",
+        "description": "Health and wellness tips",
+        "created_at": "2023-09-10T23:31:40.632Z",
+        "updated_at": "2023-09-11T02:24:39.945Z"
+      },
+      {
+        "id": "8355a7ce-fb03-487b-aea4-55e807a72392",
+        "name": "Travel",
+        "description": "Travel destinations",
+        "created_at": "2023-09-11T07:05:09.623Z",
+        "updated_at": "2023-09-11T09:08:15.142Z"
+      },
+      {
+        "id": "041e9271-6a2e-4e5e-b777-42352ca47b44",
+        "name": "Food",
+        "description": "Delicious food recipes",
+        "created_at": "2023-09-11T12:41:51.653Z",
+        "updated_at": "2023-09-11T07:03:54.828Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "6098d901-5867-48f3-b435-e60f8bc5113b",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-11T07:40:02.825Z",
+        "updated_at": "2023-09-11T14:44:02.348Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b930e32f-3f09-4918-977d-af5a98066c73",
+        "query": "Fitness",
+        "filter": "Location",
+        "created_at": "2023-09-11T21:07:18.086Z",
+        "updated_at": "2023-09-11T15:01:03.928Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1c04ad4-20a3-4ce3-b1d5-7724a9366236",
+        "query": "Vacation",
+        "filter": "Rating",
+        "created_at": "2023-09-11T10:13:07.355Z",
+        "updated_at": "2023-09-11T08:48:50.371Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "151cea03-f729-4ca1-a547-b8e682a15c85",
+        "query": "Restaurant",
+        "filter": "Category",
+        "created_at": "2023-09-11T09:19:01.376Z",
+        "updated_at": "2023-09-11T16:49:22.104Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d55d1dd1-c39a-48e1-a4b4-45a3f90dea2a",
+        "query": "Music",
+        "filter": "Availability",
+        "created_at": "2023-09-11T11:38:19.625Z",
+        "updated_at": "2023-09-11T13:15:09.439Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "d736d7ee-10ee-4b45-b791-361e58651f29",
+        "created_at": "2023-09-11T12:50:45.453Z",
+        "updated_at": "2023-09-11T03:40:22.253Z",
+        "search_id": "6098d901-5867-48f3-b435-e60f8bc5113b",
+        "trend_id": "8355a7ce-fb03-487b-aea4-55e807a72392"
+      },
+      {
+        "id": "df564ee5-9dcc-4a9d-b7bc-bc45dcd038dd",
+        "created_at": "2023-09-11T06:11:30.426Z",
+        "updated_at": "2023-09-11T02:42:50.294Z",
+        "search_id": "d55d1dd1-c39a-48e1-a4b4-45a3f90dea2a",
+        "trend_id": "82ee6a59-ef96-4712-a3a9-c867ed39490c"
+      },
+      {
+        "id": "ecc052d7-ce83-451d-8818-ba07bfacc432",
+        "created_at": "2023-09-11T16:10:25.962Z",
+        "updated_at": "2023-09-11T05:58:33.493Z",
+        "search_id": "6098d901-5867-48f3-b435-e60f8bc5113b",
+        "trend_id": "8355a7ce-fb03-487b-aea4-55e807a72392"
+      },
+      {
+        "id": "804cb1f8-3c7b-4945-bc3a-07b92f2dc59a",
+        "created_at": "2023-09-11T08:47:06.522Z",
+        "updated_at": "2023-09-11T17:42:19.380Z",
+        "search_id": "b1c04ad4-20a3-4ce3-b1d5-7724a9366236",
+        "trend_id": "e297fa65-6678-463f-92da-127c221f97c4"
+      },
+      {
+        "id": "0891b7a0-2a08-4817-a8c5-0e12540bf3be",
+        "created_at": "2023-09-11T07:21:06.671Z",
+        "updated_at": "2023-09-11T14:57:58.088Z",
+        "search_id": "d55d1dd1-c39a-48e1-a4b4-45a3f90dea2a",
+        "trend_id": "82ee6a59-ef96-4712-a3a9-c867ed39490c"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "1ea7b694-cf68-44df-82c3-dbe5dd1dede4",
+        "created_at": "2023-09-11T21:07:56.609Z",
+        "updated_at": "2023-09-11T11:32:29.158Z",
+        "search_id": "6098d901-5867-48f3-b435-e60f8bc5113b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba3cc108-6d97-44f8-b47a-cd622e6f890d",
+        "created_at": "2023-09-10T23:03:26.985Z",
+        "updated_at": "2023-09-11T04:38:51.625Z",
+        "search_id": "d55d1dd1-c39a-48e1-a4b4-45a3f90dea2a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "49e840ac-41f4-41bf-9bef-e0e61d66123e",
+        "created_at": "2023-09-11T19:47:03.434Z",
+        "updated_at": "2023-09-11T09:13:40.992Z",
+        "search_id": "6098d901-5867-48f3-b435-e60f8bc5113b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca0a910f-50bf-446c-baf9-8f3c9f7afad8",
+        "created_at": "2023-09-11T01:10:29.288Z",
+        "updated_at": "2023-09-11T19:59:13.357Z",
+        "search_id": "b1c04ad4-20a3-4ce3-b1d5-7724a9366236",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3724df50-9725-4d2f-b0c4-6e4080c6bdac",
+        "created_at": "2023-09-11T16:09:06.439Z",
+        "updated_at": "2023-09-11T17:11:55.843Z",
+        "search_id": "151cea03-f729-4ca1-a547-b8e682a15c85",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "35196e85-129a-4ea7-ba35-0f58c298051c",
+        "email": "Orion.Ferry46@hotmail.com",
+        "firstName": "Demario",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/390.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "74eaf3b1-84a0-4f85-8aaf-0718f4b500b8",
+        "email": "Kara_Ortiz-Fritsch@yahoo.com",
+        "firstName": "Wilbert",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/416.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "422fc065-7c66-41db-9d53-eca7bfb6de9b",
+        "email": "Vella89@gmail.com",
+        "firstName": "Morton",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/2.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aec0d372-bc36-45f0-b0c1-46a9f12ef889",
+        "email": "Maiya76@hotmail.com",
+        "firstName": "Estell",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/748.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3c208ac4-7477-41b4-be2c-0b87be21020d",
+        "email": "Derick66@yahoo.com",
+        "firstName": "Darrion",
+        "lastName": "Nader",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58403347",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "d0172f43-8f5f-43b0-adf1-21a3ea387e67",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T07:20:35.116Z",
+        "updated_at": "2023-09-11T00:47:31.059Z"
+      },
+      {
+        "id": "6915ad18-d741-43a2-8b03-ff48a4e92c07",
+        "name": "Technology",
+        "description": "Cutting-edge technology advancements",
+        "created_at": "2023-09-11T15:29:44.172Z",
+        "updated_at": "2023-09-10T22:00:31.940Z"
+      },
+      {
+        "id": "38269891-1e4e-4f04-ba76-aa4d96c7ff96",
+        "name": "Health",
+        "description": "Tips for a healthy lifestyle",
+        "created_at": "2023-09-11T12:27:47.836Z",
+        "updated_at": "2023-09-11T11:12:38.774Z"
+      },
+      {
+        "id": "2ef1b21c-1c74-4892-bcc1-0735404d116a",
+        "name": "Travel",
+        "description": "Explore new travel destinations",
+        "created_at": "2023-09-11T08:01:09.247Z",
+        "updated_at": "2023-09-11T06:00:38.151Z"
+      },
+      {
+        "id": "91b5123a-7875-46f5-80dc-38250a76273b",
+        "name": "Food",
+        "description": "Delicious food recipes",
+        "created_at": "2023-09-11T06:02:30.217Z",
+        "updated_at": "2023-09-11T04:59:12.124Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "424934fb-574a-40aa-b5a5-1db389bcc727",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-11T08:54:36.108Z",
+        "updated_at": "2023-09-11T07:22:06.574Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60ce784b-f3f2-4656-b8e5-c81d1dd53717",
+        "query": "Fitness",
+        "filter": "Location",
+        "created_at": "2023-09-11T11:53:38.303Z",
+        "updated_at": "2023-09-11T05:44:37.362Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7700824-3eb2-4d89-8752-6d814277d023",
+        "query": "Vacation",
+        "filter": "Rating",
+        "created_at": "2023-09-11T14:47:47.475Z",
+        "updated_at": "2023-09-11T00:30:00.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52fb13e3-6fcc-47e3-a9b6-0b7604403ab6",
+        "query": "Healthy recipes",
+        "filter": "Category",
+        "created_at": "2023-09-11T14:13:13.993Z",
+        "updated_at": "2023-09-11T18:40:22.027Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93c9ade4-18d5-4f2a-949d-a10bcc34567b",
+        "query": "Startup",
+        "filter": "Date",
+        "created_at": "2023-09-10T21:58:52.207Z",
+        "updated_at": "2023-09-11T17:46:24.633Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "7aca1d33-08d6-40b7-8716-0034710c8dd3",
+        "created_at": "2023-09-11T17:36:25.819Z",
+        "updated_at": "2023-09-11T19:24:19.242Z",
+        "search_id": "a7700824-3eb2-4d89-8752-6d814277d023",
+        "trend_id": "38269891-1e4e-4f04-ba76-aa4d96c7ff96"
+      },
+      {
+        "id": "876f9c62-e408-4f2a-88ec-ae494a40e262",
+        "created_at": "2023-09-11T09:17:18.162Z",
+        "updated_at": "2023-09-11T21:25:59.253Z",
+        "search_id": "93c9ade4-18d5-4f2a-949d-a10bcc34567b",
+        "trend_id": "d0172f43-8f5f-43b0-adf1-21a3ea387e67"
+      },
+      {
+        "id": "8c5762d0-a81c-416a-aad8-5bb6b51877ec",
+        "created_at": "2023-09-11T11:51:21.934Z",
+        "updated_at": "2023-09-10T22:03:24.627Z",
+        "search_id": "424934fb-574a-40aa-b5a5-1db389bcc727",
+        "trend_id": "d0172f43-8f5f-43b0-adf1-21a3ea387e67"
+      },
+      {
+        "id": "05d61eec-1370-4cef-b51e-aab23be21f0d",
+        "created_at": "2023-09-11T18:18:29.046Z",
+        "updated_at": "2023-09-11T03:23:09.758Z",
+        "search_id": "60ce784b-f3f2-4656-b8e5-c81d1dd53717",
+        "trend_id": "38269891-1e4e-4f04-ba76-aa4d96c7ff96"
+      },
+      {
+        "id": "a61ab67c-ad05-4f03-a2d9-ca4a506697c9",
+        "created_at": "2023-09-11T00:48:00.249Z",
+        "updated_at": "2023-09-11T13:09:08.796Z",
+        "search_id": "a7700824-3eb2-4d89-8752-6d814277d023",
+        "trend_id": "91b5123a-7875-46f5-80dc-38250a76273b"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "c9b67994-e394-4821-8fe5-190ac2050c19",
+        "created_at": "2023-09-11T18:52:48.175Z",
+        "updated_at": "2023-09-11T04:11:22.676Z",
+        "search_id": "60ce784b-f3f2-4656-b8e5-c81d1dd53717",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c121c62-7202-436a-b11b-b1db2fc82103",
+        "created_at": "2023-09-11T17:03:10.482Z",
+        "updated_at": "2023-09-11T03:25:35.709Z",
+        "search_id": "a7700824-3eb2-4d89-8752-6d814277d023",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0996e85e-f0f2-449f-8b91-0af15a3ab928",
+        "created_at": "2023-09-11T01:31:59.989Z",
+        "updated_at": "2023-09-10T21:47:33.708Z",
+        "search_id": "424934fb-574a-40aa-b5a5-1db389bcc727",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27249cd6-1ce5-486e-8fda-5863a25b6555",
+        "created_at": "2023-09-11T19:05:55.401Z",
+        "updated_at": "2023-09-11T16:25:24.980Z",
+        "search_id": "a7700824-3eb2-4d89-8752-6d814277d023",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2063cc08-5dac-4ee2-a6ea-ab9f317bfdcb",
+        "created_at": "2023-09-11T13:20:46.991Z",
+        "updated_at": "2023-09-11T09:15:11.797Z",
+        "search_id": "60ce784b-f3f2-4656-b8e5-c81d1dd53717",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e65188d1-5829-407b-b997-162637d14f9b",
+        "email": "Kevin32@gmail.com",
+        "firstName": "Kyla",
+        "lastName": "Krajcik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20045870",
+        "tenantId": null
+      },
+      {
+        "reference": "93d3278a-1ba0-49b7-925d-015934a2517f",
+        "email": "Nichole71@gmail.com",
+        "firstName": "Krystal",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/926.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "10975ee3-e7f6-4e9d-a77d-95589906b691",
+        "email": "Miller_Corkery32@hotmail.com",
+        "firstName": "Tomas",
+        "lastName": "Stehr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56903545",
+        "tenantId": null
+      },
+      {
+        "reference": "70667ccc-03c9-49d2-9e39-cfdae12bb871",
+        "email": "Aaliyah93@hotmail.com",
+        "firstName": "Treva",
+        "lastName": "Becker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/448.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4fa7118-3461-45a6-bd11-d4b4b728d50a",
+        "email": "Antone_Lubowitz19@hotmail.com",
+        "firstName": "Annette",
+        "lastName": "Fahey-Cartwright",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52412656",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "f3b14939-d81f-4003-8f20-185e19a7742f",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T08:14:37.645Z",
+        "updated_at": "2023-09-11T17:21:44.543Z"
+      },
+      {
+        "id": "0b0fa509-9fc8-42fd-8e1f-b291dc7abe2d",
+        "name": "Technology",
+        "description": "Cutting-edge technology trends",
+        "created_at": "2023-09-10T22:06:09.114Z",
+        "updated_at": "2023-09-11T18:15:36.406Z"
+      },
+      {
+        "id": "b10c5f61-9961-4878-bb8c-3cbb595b7028",
+        "name": "Health",
+        "description": "Health and wellness trends",
+        "created_at": "2023-09-11T11:08:09.512Z",
+        "updated_at": "2023-09-11T06:44:03.262Z"
+      },
+      {
+        "id": "745b46da-b3fa-425d-8693-b9373e8260b6",
+        "name": "Food",
+        "description": "Delicious food trends",
+        "created_at": "2023-09-11T03:54:05.423Z",
+        "updated_at": "2023-09-11T10:03:27.996Z"
+      },
+      {
+        "id": "d5bdd362-dd60-4b97-af53-c8930390bbd0",
+        "name": "Travel",
+        "description": "Exciting travel trends",
+        "created_at": "2023-09-11T07:27:01.347Z",
+        "updated_at": "2023-09-10T22:49:17.162Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "31a9755a-f9dc-4c21-b00e-a24237e476e6",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-11T16:23:53.984Z",
+        "updated_at": "2023-09-11T07:40:59.309Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a06d3ca-9875-44dd-8f1d-4c84ec6a329a",
+        "query": "Fitness",
+        "filter": "Location",
+        "created_at": "2023-09-11T13:35:51.901Z",
+        "updated_at": "2023-09-11T05:37:50.531Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45dcf331-e3dc-4695-84a5-1792b90d910f",
+        "query": "Recipes",
+        "filter": "Rating",
+        "created_at": "2023-09-10T21:33:41.947Z",
+        "updated_at": "2023-09-11T07:22:45.037Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96a031c0-7a54-47eb-a0cc-44b276bd78cb",
+        "query": "Vacation",
+        "filter": "Category",
+        "created_at": "2023-09-11T02:45:05.668Z",
+        "updated_at": "2023-09-11T01:23:00.471Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "722cbc48-1941-417a-b0b4-0e6051691480",
+        "query": "Fashion",
+        "filter": "Availability",
+        "created_at": "2023-09-11T09:13:40.797Z",
+        "updated_at": "2023-09-11T08:44:57.449Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "a4cb4e24-c6ef-4c07-8bae-5e3e4373c044",
+        "created_at": "2023-09-11T13:02:46.542Z",
+        "updated_at": "2023-09-11T02:40:29.934Z",
+        "search_id": "31a9755a-f9dc-4c21-b00e-a24237e476e6",
+        "trend_id": "d5bdd362-dd60-4b97-af53-c8930390bbd0"
+      },
+      {
+        "id": "2793bac3-f163-4cd3-af11-9553f636cfbc",
+        "created_at": "2023-09-11T10:31:18.505Z",
+        "updated_at": "2023-09-11T19:40:40.625Z",
+        "search_id": "722cbc48-1941-417a-b0b4-0e6051691480",
+        "trend_id": "745b46da-b3fa-425d-8693-b9373e8260b6"
+      },
+      {
+        "id": "0a42dbb6-6110-404a-82d9-fb3eb79a51c3",
+        "created_at": "2023-09-10T23:37:51.511Z",
+        "updated_at": "2023-09-11T04:31:48.291Z",
+        "search_id": "7a06d3ca-9875-44dd-8f1d-4c84ec6a329a",
+        "trend_id": "745b46da-b3fa-425d-8693-b9373e8260b6"
+      },
+      {
+        "id": "8f28f15b-5fad-4dc6-bed6-7a238387c408",
+        "created_at": "2023-09-11T04:26:04.044Z",
+        "updated_at": "2023-09-11T04:14:35.713Z",
+        "search_id": "31a9755a-f9dc-4c21-b00e-a24237e476e6",
+        "trend_id": "b10c5f61-9961-4878-bb8c-3cbb595b7028"
+      },
+      {
+        "id": "6b5f35e4-5f9e-4e91-b34c-115e2b065c9b",
+        "created_at": "2023-09-11T20:43:27.748Z",
+        "updated_at": "2023-09-11T16:06:08.256Z",
+        "search_id": "7a06d3ca-9875-44dd-8f1d-4c84ec6a329a",
+        "trend_id": "f3b14939-d81f-4003-8f20-185e19a7742f"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "d91b6deb-40f7-41da-9a2f-d10568854442",
+        "created_at": "2023-09-11T12:40:00.035Z",
+        "updated_at": "2023-09-11T05:22:09.848Z",
+        "search_id": "7a06d3ca-9875-44dd-8f1d-4c84ec6a329a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0491eb33-b6c8-4417-b277-604c6db3679e",
+        "created_at": "2023-09-11T18:20:14.944Z",
+        "updated_at": "2023-09-11T00:23:17.385Z",
+        "search_id": "96a031c0-7a54-47eb-a0cc-44b276bd78cb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b6d14ec7-16dc-4369-b40c-feb4ef2fc22c",
+        "created_at": "2023-09-11T20:21:33.144Z",
+        "updated_at": "2023-09-11T00:53:16.648Z",
+        "search_id": "722cbc48-1941-417a-b0b4-0e6051691480",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f121cfa3-5aa3-4f0f-ae37-cc9ec874cd21",
+        "created_at": "2023-09-11T18:24:43.826Z",
+        "updated_at": "2023-09-11T03:24:20.159Z",
+        "search_id": "31a9755a-f9dc-4c21-b00e-a24237e476e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d4b30c2-e360-49b7-a41a-9f705c86ec52",
+        "created_at": "2023-09-11T03:08:01.197Z",
+        "updated_at": "2023-09-10T22:36:31.727Z",
+        "search_id": "7a06d3ca-9875-44dd-8f1d-4c84ec6a329a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "53977a57-205a-411b-8b70-6ce11dab6346",
+        "email": "Kristoffer52@gmail.com",
+        "firstName": "Maud",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23496307",
+        "tenantId": null
+      },
+      {
+        "reference": "48e1c97f-db1b-4477-96e4-db026bbb0c1c",
+        "email": "Solon4@gmail.com",
+        "firstName": "Kathleen",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/597.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e1402068-6dcb-4ff2-ab74-03d970f7c384",
+        "email": "Helga48@gmail.com",
+        "firstName": "Kiarra",
+        "lastName": "Luettgen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/564.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d0d50998-70f4-4e53-ae64-ddb977d11ab8",
+        "email": "Malika9@gmail.com",
+        "firstName": "Marjory",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82454512",
+        "tenantId": null
+      },
+      {
+        "reference": "96ee5e3f-da2f-42d2-8e9f-630184e45d11",
+        "email": "Jayde_Blanda77@yahoo.com",
+        "firstName": "Billy",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12340618",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "eb0d4537-e047-4e72-97a3-bd1bcbd58a25",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T10:47:12.784Z",
+        "updated_at": "2023-09-11T06:34:01.936Z"
+      },
+      {
+        "id": "769093a5-3af0-485b-b3c9-5f183fb49d36",
+        "name": "Technology",
+        "description": "Cutting-edge technology updates",
+        "created_at": "2023-09-11T06:28:38.875Z",
+        "updated_at": "2023-09-11T08:42:51.173Z"
+      },
+      {
+        "id": "cda0bcdd-4abf-4811-b2a4-6848ce99cdce",
+        "name": "Health",
+        "description": "Health and wellness tips",
+        "created_at": "2023-09-11T01:11:58.474Z",
+        "updated_at": "2023-09-11T12:18:33.985Z"
+      },
+      {
+        "id": "1110978b-7ff9-4837-bc9d-51e27a675878",
+        "name": "Food",
+        "description": "Delicious food recipes",
+        "created_at": "2023-09-11T17:35:43.860Z",
+        "updated_at": "2023-09-10T22:20:57.969Z"
+      },
+      {
+        "id": "5754d393-1c0f-469b-8188-779caa55660f",
+        "name": "Travel",
+        "description": "Travel destinations and tips",
+        "created_at": "2023-09-11T04:46:05.730Z",
+        "updated_at": "2023-09-11T20:19:28.956Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "6722a768-9210-42cb-8f1c-fd8ce2a1494d",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-11T17:34:15.680Z",
+        "updated_at": "2023-09-11T06:05:21.207Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97426e95-9ac3-4c1f-959f-f5b7b4931e99",
+        "query": "Fitness",
+        "filter": "Rating",
+        "created_at": "2023-09-11T05:22:36.434Z",
+        "updated_at": "2023-09-11T00:04:27.315Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d8c1976-21c3-40d3-8a4c-1b46122493da",
+        "query": "Vegan recipes",
+        "filter": "Category",
+        "created_at": "2023-09-11T10:11:41.281Z",
+        "updated_at": "2023-09-11T21:08:55.390Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d09ee1d4-caaf-41ba-9d5c-78df8703d3d5",
+        "query": "Beach vacation",
+        "filter": "Location",
+        "created_at": "2023-09-11T15:05:55.867Z",
+        "updated_at": "2023-09-11T11:25:02.846Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "query": "Productivity",
+        "filter": "Date",
+        "created_at": "2023-09-10T22:19:58.671Z",
+        "updated_at": "2023-09-11T20:32:03.145Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "f69a06b6-d93f-4f6f-b5ba-489df02b3a09",
+        "created_at": "2023-09-11T10:14:22.474Z",
+        "updated_at": "2023-09-11T02:50:58.676Z",
+        "search_id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "trend_id": "5754d393-1c0f-469b-8188-779caa55660f"
+      },
+      {
+        "id": "83bdc0f4-eb89-44b9-9475-c44fdabfd77d",
+        "created_at": "2023-09-11T02:23:31.386Z",
+        "updated_at": "2023-09-10T22:01:31.075Z",
+        "search_id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "trend_id": "769093a5-3af0-485b-b3c9-5f183fb49d36"
+      },
+      {
+        "id": "2c5ae614-6664-4170-8177-391f0263ae16",
+        "created_at": "2023-09-11T15:01:20.426Z",
+        "updated_at": "2023-09-11T10:43:57.760Z",
+        "search_id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "trend_id": "5754d393-1c0f-469b-8188-779caa55660f"
+      },
+      {
+        "id": "b196a80b-560d-46ce-9469-b41fd35f9edb",
+        "created_at": "2023-09-11T17:26:25.497Z",
+        "updated_at": "2023-09-11T08:09:37.582Z",
+        "search_id": "6722a768-9210-42cb-8f1c-fd8ce2a1494d",
+        "trend_id": "eb0d4537-e047-4e72-97a3-bd1bcbd58a25"
+      },
+      {
+        "id": "c55bd6ed-b48b-4be6-92f1-58081731aa9c",
+        "created_at": "2023-09-11T06:37:28.465Z",
+        "updated_at": "2023-09-11T02:04:56.422Z",
+        "search_id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "trend_id": "1110978b-7ff9-4837-bc9d-51e27a675878"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "646ede71-af37-4dd6-a2a7-b5cdacc02636",
+        "created_at": "2023-09-11T09:09:55.372Z",
+        "updated_at": "2023-09-11T01:00:48.693Z",
+        "search_id": "97426e95-9ac3-4c1f-959f-f5b7b4931e99",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c6109f6-ea1f-4716-b7b2-8eacd6c2dc02",
+        "created_at": "2023-09-11T01:08:40.694Z",
+        "updated_at": "2023-09-11T04:19:02.185Z",
+        "search_id": "6d8c1976-21c3-40d3-8a4c-1b46122493da",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "250e430c-b414-4165-8249-3540c9285fab",
+        "created_at": "2023-09-11T01:05:56.021Z",
+        "updated_at": "2023-09-11T13:41:42.654Z",
+        "search_id": "17a2bd4e-4406-470d-ad3f-2c3a42c3ecd4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d9ca56c-967a-494e-be85-240c892ca74c",
+        "created_at": "2023-09-11T11:10:31.148Z",
+        "updated_at": "2023-09-11T15:49:27.877Z",
+        "search_id": "97426e95-9ac3-4c1f-959f-f5b7b4931e99",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4372d0e-63cd-4baf-802f-f64d2256bc76",
+        "created_at": "2023-09-11T13:28:11.168Z",
+        "updated_at": "2023-09-11T01:50:35.128Z",
+        "search_id": "d09ee1d4-caaf-41ba-9d5c-78df8703d3d5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "af3b759a-4b09-4f65-9f13-4fc10f00a111",
+        "email": "Winfield82@gmail.com",
+        "firstName": "Mauricio",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41160211",
+        "tenantId": null
+      },
+      {
+        "reference": "17a85444-aa08-491f-87f8-d6ace6eca913",
+        "email": "Fannie82@yahoo.com",
+        "firstName": "Roosevelt",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1050.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a55dc10b-2fd1-4756-8218-34a6d075af40",
+        "email": "Santos_Waelchi98@yahoo.com",
+        "firstName": "Reyes",
+        "lastName": "Blick",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89365884",
+        "tenantId": null
+      },
+      {
+        "reference": "09654cb3-1e23-49bf-87ee-b13873d76886",
+        "email": "Dion.Wolff@yahoo.com",
+        "firstName": "Eriberto",
+        "lastName": "Strosin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89705578",
+        "tenantId": null
+      },
+      {
+        "reference": "8153b7d1-2da2-45f9-a613-b481e122c3bf",
+        "email": "Raymond.Gulgowski57@yahoo.com",
+        "firstName": "Katelin",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47158711",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "dd77907d-9b0d-4c0f-b269-05b0de0edc1d",
+        "name": "Technology",
+        "description": "Stay up-to-date with the latest technological advancements.",
+        "created_at": "2023-09-11T10:11:38.769Z",
+        "updated_at": "2023-09-11T07:07:25.140Z"
+      },
+      {
+        "id": "d488d418-ee4e-4ddb-b303-65b32743f409",
+        "name": "Fashion",
+        "description": "Discover the latest fashion trends.",
+        "created_at": "2023-09-11T19:43:13.032Z",
+        "updated_at": "2023-09-11T02:17:08.033Z"
+      },
+      {
+        "id": "49801e86-2f4b-44da-a913-a35d979c4d68",
+        "name": "Health",
+        "description": "Learn about maintaining a healthy lifestyle.",
+        "created_at": "2023-09-11T18:36:41.009Z",
+        "updated_at": "2023-09-11T16:16:25.395Z"
+      },
+      {
+        "id": "81531c68-f77a-44ad-bf49-5705c6a34a54",
+        "name": "Food",
+        "description": "Explore delicious food recipes.",
+        "created_at": "2023-09-11T18:49:31.413Z",
+        "updated_at": "2023-09-11T00:29:48.484Z"
+      },
+      {
+        "id": "8a4d9f14-22d1-4c36-8e9a-fa9975fb5b99",
+        "name": "Travel",
+        "description": "Plan your next travel adventure.",
+        "created_at": "2023-09-11T12:28:51.059Z",
+        "updated_at": "2023-09-11T06:02:59.578Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "8843fac3-2c94-4eaf-b2ad-78151723119a",
+        "query": "iPhone",
+        "filter": "Price: Low to High",
+        "created_at": "2023-09-11T13:44:32.845Z",
+        "updated_at": "2023-09-11T09:30:58.516Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "096f777b-417e-4d8b-931e-e5c4edd8728d",
+        "query": "Summer dresses",
+        "filter": "Size: Small",
+        "created_at": "2023-09-11T00:15:00.030Z",
+        "updated_at": "2023-09-11T07:37:17.395Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a787a09f-bc42-4445-8508-90732c5a0159",
+        "query": "Fitness tips",
+        "filter": "Rating: 4 stars and above",
+        "created_at": "2023-09-11T12:44:43.675Z",
+        "updated_at": "2023-09-11T06:02:29.344Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b04cd82-ea2e-4771-b75b-c810a86afa06",
+        "query": "Italian cuisine",
+        "filter": "Ingredients: Vegetarian",
+        "created_at": "2023-09-11T04:13:26.229Z",
+        "updated_at": "2023-09-11T05:16:43.690Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aef8605c-b9e4-4326-a2c1-43f5cbf5a6ef",
+        "query": "Beach destinations",
+        "filter": "Location: Asia",
+        "created_at": "2023-09-11T19:53:38.464Z",
+        "updated_at": "2023-09-10T21:29:25.876Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "e18e9479-df81-4ca1-9108-4973a4d07c59",
+        "created_at": "2023-09-11T08:38:08.827Z",
+        "updated_at": "2023-09-11T06:27:36.224Z",
+        "search_id": "8843fac3-2c94-4eaf-b2ad-78151723119a",
+        "trend_id": "d488d418-ee4e-4ddb-b303-65b32743f409"
+      },
+      {
+        "id": "fab08f84-cb80-4fa1-9571-57a071663553",
+        "created_at": "2023-09-11T04:34:26.920Z",
+        "updated_at": "2023-09-11T12:34:23.668Z",
+        "search_id": "a787a09f-bc42-4445-8508-90732c5a0159",
+        "trend_id": "8a4d9f14-22d1-4c36-8e9a-fa9975fb5b99"
+      },
+      {
+        "id": "7f46f0cb-22a0-4d76-8b51-af3caf3a66ec",
+        "created_at": "2023-09-11T11:50:27.245Z",
+        "updated_at": "2023-09-11T07:24:44.450Z",
+        "search_id": "096f777b-417e-4d8b-931e-e5c4edd8728d",
+        "trend_id": "dd77907d-9b0d-4c0f-b269-05b0de0edc1d"
+      },
+      {
+        "id": "75df1009-adf9-47ea-a285-2696aa11877f",
+        "created_at": "2023-09-11T09:56:21.230Z",
+        "updated_at": "2023-09-11T03:01:09.269Z",
+        "search_id": "8843fac3-2c94-4eaf-b2ad-78151723119a",
+        "trend_id": "81531c68-f77a-44ad-bf49-5705c6a34a54"
+      },
+      {
+        "id": "72335158-7e57-4233-8098-54a4ca8e439b",
+        "created_at": "2023-09-11T10:30:45.719Z",
+        "updated_at": "2023-09-11T17:05:23.019Z",
+        "search_id": "0b04cd82-ea2e-4771-b75b-c810a86afa06",
+        "trend_id": "d488d418-ee4e-4ddb-b303-65b32743f409"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "098d41e3-2e02-47f5-b954-ff2deab397c2",
+        "created_at": "2023-09-11T12:35:16.760Z",
+        "updated_at": "2023-09-11T17:19:23.713Z",
+        "search_id": "0b04cd82-ea2e-4771-b75b-c810a86afa06",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a6cf95c-4286-4d56-86d1-53ad3a461cb3",
+        "created_at": "2023-09-11T14:16:41.576Z",
+        "updated_at": "2023-09-11T13:51:21.591Z",
+        "search_id": "a787a09f-bc42-4445-8508-90732c5a0159",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16f15ff5-f379-4aeb-802e-66c9135e295d",
+        "created_at": "2023-09-11T02:42:14.378Z",
+        "updated_at": "2023-09-11T04:37:28.081Z",
+        "search_id": "0b04cd82-ea2e-4771-b75b-c810a86afa06",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26939d30-ba68-4326-9218-4fff4d8eb9fe",
+        "created_at": "2023-09-11T04:06:44.389Z",
+        "updated_at": "2023-09-11T06:20:32.865Z",
+        "search_id": "096f777b-417e-4d8b-931e-e5c4edd8728d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74c712a9-8efa-404b-99de-41cc6e75fc6e",
+        "created_at": "2023-09-11T18:59:00.510Z",
+        "updated_at": "2023-09-11T09:57:01.497Z",
+        "search_id": "a787a09f-bc42-4445-8508-90732c5a0159",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f4cec53c-5fe1-4229-adc7-1a9da5e8b1c0",
+        "email": "Kamryn_Lemke16@hotmail.com",
+        "firstName": "Hollis",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17419413",
+        "tenantId": null
+      },
+      {
+        "reference": "17e617bc-75c3-4df0-b8cd-4bbee52d7140",
+        "email": "Cara_Spencer@yahoo.com",
+        "firstName": "Enrique",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27955003",
+        "tenantId": null
+      },
+      {
+        "reference": "b4de7831-6e7e-4f09-bc3f-f20e54c16d0b",
+        "email": "Mauricio74@hotmail.com",
+        "firstName": "Charlotte",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/628.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "45a93fd1-6e3b-4a77-803e-445f0d01cbd0",
+        "email": "Luna_Pfeffer@hotmail.com",
+        "firstName": "Alden",
+        "lastName": "Hayes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53203946",
+        "tenantId": null
+      },
+      {
+        "reference": "8e95621a-e6c2-4d52-a29e-c9e0f5350f9c",
+        "email": "Nelda_Hahn40@hotmail.com",
+        "firstName": "Damon",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42433653",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "d8f48f4a-f9d9-444f-9fb7-92476c4df8df",
+        "name": "Technology",
+        "description": "The latest advancements in technology",
+        "created_at": "2023-09-11T09:42:51.965Z",
+        "updated_at": "2023-09-11T01:14:14.381Z"
+      },
+      {
+        "id": "afc44112-a04c-403b-9f70-1aa9b3d4b683",
+        "name": "Fashion",
+        "description": "Trends in fashion industry",
+        "created_at": "2023-09-11T07:44:57.454Z",
+        "updated_at": "2023-09-11T14:28:57.123Z"
+      },
+      {
+        "id": "6ba32799-461b-4e0c-b6cd-14b3331211bd",
+        "name": "Health",
+        "description": "Tips for maintaining good health",
+        "created_at": "2023-09-11T14:56:20.329Z",
+        "updated_at": "2023-09-10T21:54:08.423Z"
+      },
+      {
+        "id": "8e416c10-a266-4b87-8014-dec9928a4bbe",
+        "name": "Travel",
+        "description": "Popular travel destinations",
+        "created_at": "2023-09-11T18:13:37.823Z",
+        "updated_at": "2023-09-10T23:44:41.370Z"
+      },
+      {
+        "id": "38d98af5-73e5-41f9-b8ad-fc39ef6f4c02",
+        "name": "Food",
+        "description": "Delicious recipes and food trends",
+        "created_at": "2023-09-11T06:27:48.300Z",
+        "updated_at": "2023-09-11T04:36:16.982Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "62bd7367-98e5-4d66-8190-4c70410f078c",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-10T21:56:51.534Z",
+        "updated_at": "2023-09-11T12:29:41.820Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73e89c81-768c-4ae4-8336-65a5477dbc76",
+        "query": "Summer dresses",
+        "filter": "Size",
+        "created_at": "2023-09-10T23:04:20.947Z",
+        "updated_at": "2023-09-11T11:28:23.266Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7cd1d3a-a472-46a7-a24e-1eab88b4fb21",
+        "query": "Healthy recipes",
+        "filter": "Calories",
+        "created_at": "2023-09-10T22:40:30.922Z",
+        "updated_at": "2023-09-11T05:08:53.950Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13c13b77-961d-4161-83a6-60725234e1bb",
+        "query": "Beach vacation",
+        "filter": "Location",
+        "created_at": "2023-09-11T07:48:07.096Z",
+        "updated_at": "2023-09-11T19:43:47.826Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "410e3589-e4f2-4f35-92c0-a670aa27ab90",
+        "query": "Best restaurants",
+        "filter": "Ratings",
+        "created_at": "2023-09-11T16:26:23.390Z",
+        "updated_at": "2023-09-11T03:57:13.219Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "69108303-9a25-4369-ac81-a29578f2177e",
+        "created_at": "2023-09-11T08:03:09.846Z",
+        "updated_at": "2023-09-11T15:05:28.457Z",
+        "search_id": "62bd7367-98e5-4d66-8190-4c70410f078c",
+        "trend_id": "6ba32799-461b-4e0c-b6cd-14b3331211bd"
+      },
+      {
+        "id": "b000c2ac-d4f2-4643-9f5e-d01b8cea37b5",
+        "created_at": "2023-09-11T00:20:25.708Z",
+        "updated_at": "2023-09-11T01:51:31.848Z",
+        "search_id": "13c13b77-961d-4161-83a6-60725234e1bb",
+        "trend_id": "afc44112-a04c-403b-9f70-1aa9b3d4b683"
+      },
+      {
+        "id": "12778fb9-c4f8-4461-8e67-ec86a3bf9f03",
+        "created_at": "2023-09-10T23:16:07.076Z",
+        "updated_at": "2023-09-11T00:40:26.442Z",
+        "search_id": "e7cd1d3a-a472-46a7-a24e-1eab88b4fb21",
+        "trend_id": "8e416c10-a266-4b87-8014-dec9928a4bbe"
+      },
+      {
+        "id": "cd4b07d3-11f2-450e-8297-8dd6a4e3e3a4",
+        "created_at": "2023-09-11T17:10:36.980Z",
+        "updated_at": "2023-09-11T17:01:27.656Z",
+        "search_id": "e7cd1d3a-a472-46a7-a24e-1eab88b4fb21",
+        "trend_id": "8e416c10-a266-4b87-8014-dec9928a4bbe"
+      },
+      {
+        "id": "276c9714-7fc9-4df0-a0f0-5d6f6b949276",
+        "created_at": "2023-09-11T19:01:22.590Z",
+        "updated_at": "2023-09-11T16:57:30.844Z",
+        "search_id": "e7cd1d3a-a472-46a7-a24e-1eab88b4fb21",
+        "trend_id": "d8f48f4a-f9d9-444f-9fb7-92476c4df8df"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "f39c8faf-849a-42e2-817f-8177ac6a5a0f",
+        "created_at": "2023-09-11T09:01:19.751Z",
+        "updated_at": "2023-09-11T19:29:05.413Z",
+        "search_id": "13c13b77-961d-4161-83a6-60725234e1bb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fd6f1eb-303c-4a38-98c6-33d1c2df26bc",
+        "created_at": "2023-09-11T13:01:59.205Z",
+        "updated_at": "2023-09-11T04:20:07.527Z",
+        "search_id": "e7cd1d3a-a472-46a7-a24e-1eab88b4fb21",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d8c0d2b-7c0c-4907-b529-fec23ec24f1e",
+        "created_at": "2023-09-11T15:14:37.801Z",
+        "updated_at": "2023-09-11T03:32:46.467Z",
+        "search_id": "73e89c81-768c-4ae4-8336-65a5477dbc76",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8df9d0f-f0ff-4cf9-8565-be71d8cb44ed",
+        "created_at": "2023-09-10T22:52:14.663Z",
+        "updated_at": "2023-09-11T07:57:25.603Z",
+        "search_id": "13c13b77-961d-4161-83a6-60725234e1bb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f71ea953-6b21-4d50-881d-e1b0d988b1e7",
+        "created_at": "2023-09-10T23:52:13.537Z",
+        "updated_at": "2023-09-11T17:25:45.830Z",
+        "search_id": "73e89c81-768c-4ae4-8336-65a5477dbc76",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f5370ecb-d0d3-4aed-8e14-230a7da4a684",
+        "email": "Alia_Doyle@hotmail.com",
+        "firstName": "Joelle",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16326649",
+        "tenantId": null
+      },
+      {
+        "reference": "bc9f52d4-0931-41ed-8474-95a5c14e6b58",
+        "email": "Jairo35@yahoo.com",
+        "firstName": "Karianne",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/788.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "349c0116-b785-4e03-b436-da4d95158d82",
+        "email": "Lowell96@hotmail.com",
+        "firstName": "Sherwood",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "22d8ba11-a527-405f-b2d3-fae1957703d0",
+        "email": "Erich60@yahoo.com",
+        "firstName": "Dario",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1129.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2921d5f5-ad32-4751-a63f-2105af7282a3",
+        "email": "Justen.Zboncak8@gmail.com",
+        "firstName": "Raina",
+        "lastName": "Franey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21808148",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "deffbdfb-9913-4145-bedc-c36c7f23c41f",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T05:21:12.291Z",
+        "updated_at": "2023-09-11T15:44:54.793Z"
+      },
+      {
+        "id": "7f652b9d-5ebd-48ab-bb5a-3a61cac146b9",
+        "name": "Technology",
+        "description": "Cutting-edge technology updates",
+        "created_at": "2023-09-11T01:31:03.199Z",
+        "updated_at": "2023-09-11T02:37:33.363Z"
+      },
+      {
+        "id": "6b35a1b0-03e2-4d4f-8802-993d1f69a085",
+        "name": "Health",
+        "description": "Tips for a healthy lifestyle",
+        "created_at": "2023-09-11T11:26:23.389Z",
+        "updated_at": "2023-09-11T12:28:16.805Z"
+      },
+      {
+        "id": "e257277e-82b0-466f-acef-a5014d824b95",
+        "name": "Food",
+        "description": "Delicious food recipes",
+        "created_at": "2023-09-11T14:59:28.969Z",
+        "updated_at": "2023-09-11T01:36:23.097Z"
+      },
+      {
+        "id": "6a4907fa-772f-4e2f-8d11-367e34e1b162",
+        "name": "Travel",
+        "description": "Top travel destinations",
+        "created_at": "2023-09-11T09:25:24.346Z",
+        "updated_at": "2023-09-11T05:47:02.991Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "f36faddd-3eac-4435-8d55-e0b1d5e6e444",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-11T07:41:26.784Z",
+        "updated_at": "2023-09-11T16:51:31.276Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95167fe5-9042-44c9-bc79-621b2a630b03",
+        "query": "Fitness",
+        "filter": "Location",
+        "created_at": "2023-09-11T02:29:50.142Z",
+        "updated_at": "2023-09-11T02:06:46.678Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0f00cb9-3858-4a2a-9c7b-a17e40025307",
+        "query": "Vegan recipes",
+        "filter": "Rating",
+        "created_at": "2023-09-11T16:39:03.165Z",
+        "updated_at": "2023-09-11T13:47:31.187Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "188df66c-f227-4070-a072-1e58b69c82b9",
+        "query": "Beach vacation",
+        "filter": "Date",
+        "created_at": "2023-09-11T07:12:44.113Z",
+        "updated_at": "2023-09-11T18:40:47.570Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be60c23c-74b4-4e72-9e4e-c93046f826ec",
+        "query": "Job opportunities",
+        "filter": "Category",
+        "created_at": "2023-09-11T07:14:02.791Z",
+        "updated_at": "2023-09-11T02:15:34.446Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "dc0386f5-7a72-4a3c-b941-655813d51ed3",
+        "created_at": "2023-09-11T05:36:52.931Z",
+        "updated_at": "2023-09-11T11:51:34.635Z",
+        "search_id": "be60c23c-74b4-4e72-9e4e-c93046f826ec",
+        "trend_id": "6a4907fa-772f-4e2f-8d11-367e34e1b162"
+      },
+      {
+        "id": "67041e60-01c3-4a8b-8d7b-beb029ed4514",
+        "created_at": "2023-09-11T16:24:22.173Z",
+        "updated_at": "2023-09-11T13:43:13.966Z",
+        "search_id": "f36faddd-3eac-4435-8d55-e0b1d5e6e444",
+        "trend_id": "deffbdfb-9913-4145-bedc-c36c7f23c41f"
+      },
+      {
+        "id": "dba45861-b65b-4181-ab43-3d222628c7e1",
+        "created_at": "2023-09-11T10:02:31.232Z",
+        "updated_at": "2023-09-11T09:42:39.638Z",
+        "search_id": "be60c23c-74b4-4e72-9e4e-c93046f826ec",
+        "trend_id": "7f652b9d-5ebd-48ab-bb5a-3a61cac146b9"
+      },
+      {
+        "id": "6a0a6ecb-a81f-4408-99e1-748d2c4ea3c2",
+        "created_at": "2023-09-11T16:43:08.407Z",
+        "updated_at": "2023-09-11T15:36:16.894Z",
+        "search_id": "be60c23c-74b4-4e72-9e4e-c93046f826ec",
+        "trend_id": "deffbdfb-9913-4145-bedc-c36c7f23c41f"
+      },
+      {
+        "id": "720a02bd-1b8f-407f-b5d0-7b4423cb08ce",
+        "created_at": "2023-09-11T05:51:15.917Z",
+        "updated_at": "2023-09-11T18:38:09.375Z",
+        "search_id": "be60c23c-74b4-4e72-9e4e-c93046f826ec",
+        "trend_id": "deffbdfb-9913-4145-bedc-c36c7f23c41f"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "c8fb5660-6270-4659-bfa7-8c7a009822f2",
+        "created_at": "2023-09-11T06:57:24.780Z",
+        "updated_at": "2023-09-10T21:45:46.931Z",
+        "search_id": "d0f00cb9-3858-4a2a-9c7b-a17e40025307",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18c444c1-5af0-4135-bf9d-42231792e22f",
+        "created_at": "2023-09-11T16:55:52.883Z",
+        "updated_at": "2023-09-11T09:42:53.311Z",
+        "search_id": "95167fe5-9042-44c9-bc79-621b2a630b03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "903c2720-914d-475e-9980-66cf062f52f4",
+        "created_at": "2023-09-10T23:34:59.878Z",
+        "updated_at": "2023-09-11T14:06:26.708Z",
+        "search_id": "95167fe5-9042-44c9-bc79-621b2a630b03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71516b00-cad4-45e3-a965-13d23c8bf31a",
+        "created_at": "2023-09-11T12:17:21.388Z",
+        "updated_at": "2023-09-11T07:10:24.995Z",
+        "search_id": "95167fe5-9042-44c9-bc79-621b2a630b03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a415185-eb06-4990-b0aa-e05d2d89b06c",
+        "created_at": "2023-09-11T07:43:05.977Z",
+        "updated_at": "2023-09-11T20:57:57.446Z",
+        "search_id": "d0f00cb9-3858-4a2a-9c7b-a17e40025307",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d1b23885-eeb8-4d6b-9e1e-78186346a7e6",
+        "email": "Darrel75@gmail.com",
+        "firstName": "Neil",
+        "lastName": "Hauck",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/23.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a531b790-2052-4a3f-996f-3e80421e9f12",
+        "email": "Sincere17@hotmail.com",
+        "firstName": "Emmalee",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/495.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fbdbf243-6850-4252-b422-04b6112af154",
+        "email": "Jessika44@gmail.com",
+        "firstName": "Laney",
+        "lastName": "Howell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/387.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "20d940e3-3c49-4e90-8e36-e97efb9f7a43",
+        "email": "Jaunita38@hotmail.com",
+        "firstName": "Maureen",
+        "lastName": "Ortiz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/719.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b718c096-f950-46bf-a761-bdaabcf3e5cc",
+        "email": "Dillon9@yahoo.com",
+        "firstName": "Layla",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/544.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "838ad6dc-849e-44ac-8e9a-88a8719339bb",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T10:11:58.891Z",
+        "updated_at": "2023-09-11T09:52:34.409Z"
+      },
+      {
+        "id": "222767d5-ea61-4363-bdc8-0f5404512bb6",
+        "name": "Technology",
+        "description": "Cutting-edge technology trends",
+        "created_at": "2023-09-11T00:51:25.817Z",
+        "updated_at": "2023-09-11T11:13:49.606Z"
+      },
+      {
+        "id": "55ec242c-e11a-47d4-9ad2-b20c298868e0",
+        "name": "Health",
+        "description": "Health and wellness trends",
+        "created_at": "2023-09-11T18:56:11.687Z",
+        "updated_at": "2023-09-11T15:28:52.106Z"
+      },
+      {
+        "id": "28e04dff-8c62-49e1-85cb-5e7d6ef2a62e",
+        "name": "Food",
+        "description": "Delicious food trends",
+        "created_at": "2023-09-11T20:23:14.899Z",
+        "updated_at": "2023-09-11T15:10:38.601Z"
+      },
+      {
+        "id": "e7290ee0-1116-45f3-bfb0-5fbd1e077c78",
+        "name": "Travel",
+        "description": "Exciting travel trends",
+        "created_at": "2023-09-11T09:44:13.263Z",
+        "updated_at": "2023-09-11T04:08:45.190Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "a1c0bb46-29d2-4894-9911-69d89c6bf2eb",
+        "query": "iPhone",
+        "filter": "Price",
+        "created_at": "2023-09-10T23:43:09.208Z",
+        "updated_at": "2023-09-11T17:24:27.160Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26be60fa-2a6b-4d86-82b5-54beafa934c2",
+        "query": "Vacation",
+        "filter": "Location",
+        "created_at": "2023-09-11T04:19:09.272Z",
+        "updated_at": "2023-09-11T06:01:35.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f2a2a8f-cd8c-48ba-b6ea-21848acaa100",
+        "query": "Fitness",
+        "filter": "Rating",
+        "created_at": "2023-09-11T19:16:53.570Z",
+        "updated_at": "2023-09-11T00:29:33.254Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d996082d-45d9-4dbf-9d76-06117b2aac05",
+        "query": "Recipes",
+        "filter": "Category",
+        "created_at": "2023-09-11T18:58:06.173Z",
+        "updated_at": "2023-09-11T04:02:57.826Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b6a4669d-c7cc-49ae-9fbe-04b683f8d7e6",
+        "query": "Fashion",
+        "filter": "Date",
+        "created_at": "2023-09-11T08:11:00.559Z",
+        "updated_at": "2023-09-11T10:19:58.017Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "00cdbcff-93e7-485f-9f06-6282a43096c1",
+        "created_at": "2023-09-11T14:19:33.550Z",
+        "updated_at": "2023-09-11T15:23:47.396Z",
+        "search_id": "b6a4669d-c7cc-49ae-9fbe-04b683f8d7e6",
+        "trend_id": "55ec242c-e11a-47d4-9ad2-b20c298868e0"
+      },
+      {
+        "id": "47bdffb8-0ea6-44d7-b2c9-54eb519d6ea7",
+        "created_at": "2023-09-11T02:09:35.303Z",
+        "updated_at": "2023-09-11T16:07:16.508Z",
+        "search_id": "a1c0bb46-29d2-4894-9911-69d89c6bf2eb",
+        "trend_id": "28e04dff-8c62-49e1-85cb-5e7d6ef2a62e"
+      },
+      {
+        "id": "553e4162-567a-47a3-8b2d-536783ff34b8",
+        "created_at": "2023-09-10T22:56:03.863Z",
+        "updated_at": "2023-09-11T00:48:01.497Z",
+        "search_id": "d996082d-45d9-4dbf-9d76-06117b2aac05",
+        "trend_id": "222767d5-ea61-4363-bdc8-0f5404512bb6"
+      },
+      {
+        "id": "7c9687ba-5c59-4477-b1d7-88ed6af96a78",
+        "created_at": "2023-09-11T03:13:41.331Z",
+        "updated_at": "2023-09-11T04:47:57.514Z",
+        "search_id": "a1c0bb46-29d2-4894-9911-69d89c6bf2eb",
+        "trend_id": "28e04dff-8c62-49e1-85cb-5e7d6ef2a62e"
+      },
+      {
+        "id": "77a18258-2f13-472e-8b4c-c4dffb0d5d37",
+        "created_at": "2023-09-11T06:05:49.430Z",
+        "updated_at": "2023-09-11T16:03:19.382Z",
+        "search_id": "26be60fa-2a6b-4d86-82b5-54beafa934c2",
+        "trend_id": "55ec242c-e11a-47d4-9ad2-b20c298868e0"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "6b3c4f4d-a47b-48a2-a081-0955c0de5e52",
+        "created_at": "2023-09-11T10:17:58.959Z",
+        "updated_at": "2023-09-11T00:49:08.532Z",
+        "search_id": "6f2a2a8f-cd8c-48ba-b6ea-21848acaa100",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1da604fb-ece9-4d42-af3e-5afa90952bb3",
+        "created_at": "2023-09-11T13:35:05.602Z",
+        "updated_at": "2023-09-10T22:57:42.481Z",
+        "search_id": "d996082d-45d9-4dbf-9d76-06117b2aac05",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1cb37b6b-38f4-455b-9d67-00c5b2d87445",
+        "created_at": "2023-09-11T07:43:55.764Z",
+        "updated_at": "2023-09-11T14:19:10.381Z",
+        "search_id": "6f2a2a8f-cd8c-48ba-b6ea-21848acaa100",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "480b8834-bfce-46ab-9320-fd9bac1597ee",
+        "created_at": "2023-09-11T17:19:43.102Z",
+        "updated_at": "2023-09-11T14:52:23.428Z",
+        "search_id": "b6a4669d-c7cc-49ae-9fbe-04b683f8d7e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "426af78e-5478-4bc2-a727-ad0c5606c328",
+        "created_at": "2023-09-11T15:44:38.283Z",
+        "updated_at": "2023-09-11T17:15:24.683Z",
+        "search_id": "b6a4669d-c7cc-49ae-9fbe-04b683f8d7e6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "79dd3f17-286f-4a5e-bbb4-0230f2b17058",
+        "email": "Eileen25@yahoo.com",
+        "firstName": "Jefferey",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18133111",
+        "tenantId": null
+      },
+      {
+        "reference": "0b579b97-90eb-4ce9-8187-240e8a8ae544",
+        "email": "Dino99@hotmail.com",
+        "firstName": "Ray",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/488.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0c778479-4b6c-4c6f-ba72-0619546e3be0",
+        "email": "Brianne_Bogan35@hotmail.com",
+        "firstName": "Marlene",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/775.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "208e405d-4108-4b07-8775-1eb1a6a72a38",
+        "email": "Era19@yahoo.com",
+        "firstName": "Jude",
+        "lastName": "Metz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74190455",
+        "tenantId": null
+      },
+      {
+        "reference": "3209e579-5866-408f-9318-afe41af61390",
+        "email": "Kathryne34@gmail.com",
+        "firstName": "Yazmin",
+        "lastName": "Strosin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1233.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "6f09b708-24ef-4a76-b68d-4935b9082f0a",
+        "name": "Fashion",
+        "description": "Latest fashion trends",
+        "created_at": "2023-09-11T04:16:41.370Z",
+        "updated_at": "2023-09-11T19:51:15.818Z"
+      },
+      {
+        "id": "918c83ac-33e8-4aa4-9121-3c7494963690",
+        "name": "Technology",
+        "description": "Cutting-edge technology advancements",
+        "created_at": "2023-09-11T14:21:40.182Z",
+        "updated_at": "2023-09-11T11:02:12.571Z"
+      },
+      {
+        "id": "fecbda00-7a74-4be7-8ace-cc717c552d22",
+        "name": "Food",
+        "description": "Delicious food recipes",
+        "created_at": "2023-09-11T05:16:36.964Z",
+        "updated_at": "2023-09-11T06:03:27.373Z"
+      },
+      {
+        "id": "8f9d2640-1f34-4469-96a5-a7e7c905a9fb",
+        "name": "Travel",
+        "description": "Top travel destinations",
+        "created_at": "2023-09-11T03:38:03.938Z",
+        "updated_at": "2023-09-11T16:24:42.630Z"
+      },
+      {
+        "id": "bd5600f6-3277-4f09-9362-452164a97aad",
+        "name": "Fitness",
+        "description": "Fitness tips and tricks",
+        "created_at": "2023-09-11T01:38:45.632Z",
+        "updated_at": "2023-09-11T18:06:23.205Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "ba83dd1a-14ad-40e6-9924-7dd8bab5e017",
+        "query": "iPhone",
+        "filter": "Price range: $100-$500",
+        "created_at": "2023-09-11T12:42:17.899Z",
+        "updated_at": "2023-09-11T12:08:24.823Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5e0b925-b2ca-4e41-abc3-7ff46c6746f5",
+        "query": "Healthy recipes",
+        "filter": "Vegetarian options",
+        "created_at": "2023-09-11T03:00:19.264Z",
+        "updated_at": "2023-09-11T00:00:47.438Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2579b8c-b2bb-426f-9bd3-e7d2f0970b9a",
+        "query": "Beach vacation",
+        "filter": "5-star hotels",
+        "created_at": "2023-09-11T00:31:20.979Z",
+        "updated_at": "2023-09-10T21:47:42.834Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b640cf03-1c2c-45d0-a448-1539611d3a21",
+        "query": "Productivity hacks",
+        "filter": "Time management",
+        "created_at": "2023-09-11T03:11:08.248Z",
+        "updated_at": "2023-09-11T03:56:12.428Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed9bfab5-e1c5-4168-b39d-c4e41132d67c",
+        "query": "Yoga",
+        "filter": "Beginner level",
+        "created_at": "2023-09-11T17:08:17.034Z",
+        "updated_at": "2023-09-11T19:05:04.646Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "bcd7bdf6-3fa0-4172-af36-98803726a385",
+        "created_at": "2023-09-11T21:22:23.628Z",
+        "updated_at": "2023-09-11T03:49:20.791Z",
+        "search_id": "ba83dd1a-14ad-40e6-9924-7dd8bab5e017",
+        "trend_id": "8f9d2640-1f34-4469-96a5-a7e7c905a9fb"
+      },
+      {
+        "id": "edbb4518-bf05-4bb7-bebe-2f3a40374483",
+        "created_at": "2023-09-11T09:23:24.452Z",
+        "updated_at": "2023-09-11T16:58:32.854Z",
+        "search_id": "d5e0b925-b2ca-4e41-abc3-7ff46c6746f5",
+        "trend_id": "8f9d2640-1f34-4469-96a5-a7e7c905a9fb"
+      },
+      {
+        "id": "950a9297-9d27-4a54-acde-5ad5ad414549",
+        "created_at": "2023-09-10T22:45:39.371Z",
+        "updated_at": "2023-09-11T17:05:31.978Z",
+        "search_id": "ba83dd1a-14ad-40e6-9924-7dd8bab5e017",
+        "trend_id": "6f09b708-24ef-4a76-b68d-4935b9082f0a"
+      },
+      {
+        "id": "20412247-c038-4749-9d63-1f3ca2ab3479",
+        "created_at": "2023-09-11T11:42:22.699Z",
+        "updated_at": "2023-09-11T13:34:53.776Z",
+        "search_id": "ed9bfab5-e1c5-4168-b39d-c4e41132d67c",
+        "trend_id": "fecbda00-7a74-4be7-8ace-cc717c552d22"
+      },
+      {
+        "id": "2940298b-18ef-47c6-b5fb-ff74519762c1",
+        "created_at": "2023-09-10T23:40:22.126Z",
+        "updated_at": "2023-09-11T00:09:29.559Z",
+        "search_id": "ed9bfab5-e1c5-4168-b39d-c4e41132d67c",
+        "trend_id": "6f09b708-24ef-4a76-b68d-4935b9082f0a"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "b4d213bf-b1a5-42e2-84eb-739a5d2d7014",
+        "created_at": "2023-09-11T20:04:12.167Z",
+        "updated_at": "2023-09-10T22:35:43.994Z",
+        "search_id": "ba83dd1a-14ad-40e6-9924-7dd8bab5e017",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5da6fee8-94c8-4891-82df-3e1f80ff375d",
+        "created_at": "2023-09-11T01:39:06.828Z",
+        "updated_at": "2023-09-11T06:10:12.298Z",
+        "search_id": "ba83dd1a-14ad-40e6-9924-7dd8bab5e017",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b67eca51-4df3-4d2b-912d-37bcbaa4df47",
+        "created_at": "2023-09-11T17:25:29.299Z",
+        "updated_at": "2023-09-11T05:55:57.654Z",
+        "search_id": "b640cf03-1c2c-45d0-a448-1539611d3a21",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69807c86-6c17-4164-98bf-6148614e7041",
+        "created_at": "2023-09-11T08:15:24.691Z",
+        "updated_at": "2023-09-11T02:15:03.346Z",
+        "search_id": "ed9bfab5-e1c5-4168-b39d-c4e41132d67c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "856219bc-284a-4625-bd12-9898d1c75c6f",
+        "created_at": "2023-09-11T15:38:28.514Z",
+        "updated_at": "2023-09-11T13:50:39.532Z",
+        "search_id": "d5e0b925-b2ca-4e41-abc3-7ff46c6746f5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "76dbb9e2-dcea-4cd5-9e4f-460e908d758b",
+        "email": "Lupe88@hotmail.com",
+        "firstName": "Jamison",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/760.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e019733e-35b3-43fc-ad2c-0b5a88862994",
+        "email": "Vern.Ward@hotmail.com",
+        "firstName": "Alan",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/610.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e19acfc5-afa7-48d5-90ed-5cdba2b66864",
+        "email": "Alexzander_Weissnat@yahoo.com",
+        "firstName": "Hellen",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67604901",
+        "tenantId": null
+      },
+      {
+        "reference": "fe59a652-cc02-4ed6-a63a-149b3741e82d",
+        "email": "Annabell.Konopelski@gmail.com",
+        "firstName": "Felton",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1168.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "05f5ec92-80f7-45fe-9ee6-36628d6c95ae",
+        "email": "Levi.Hoppe30@hotmail.com",
+        "firstName": "Clair",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32090942",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "trend": [
+      {
+        "id": "11f0d44a-ac16-46a7-9e83-5549620a8e6f",
+        "name": "Technology",
+        "description": "Stay updated with the latest tech trends",
+        "created_at": "2023-09-11T18:53:19.403Z",
+        "updated_at": "2023-09-11T04:39:04.085Z"
+      },
+      {
+        "id": "d40bcf06-bdb7-45f5-812c-ced0bbd54ba6",
+        "name": "Fashion",
+        "description": "Explore the latest fashion trends",
+        "created_at": "2023-09-11T05:00:44.029Z",
+        "updated_at": "2023-09-11T16:15:06.049Z"
+      },
+      {
+        "id": "aa9c24d3-b185-4cd8-bce7-ed51a4f9d976",
+        "name": "Food",
+        "description": "Discover delicious food trends",
+        "created_at": "2023-09-11T14:29:25.169Z",
+        "updated_at": "2023-09-11T03:29:01.396Z"
+      },
+      {
+        "id": "04dc3428-5291-4948-aa23-a8ca3c129dfe",
+        "name": "Travel",
+        "description": "Plan your next travel adventure",
+        "created_at": "2023-09-11T00:44:26.994Z",
+        "updated_at": "2023-09-11T09:30:37.950Z"
+      },
+      {
+        "id": "f0d7507b-2aa9-4629-8179-7bdaaf2a6324",
+        "name": "Fitness",
+        "description": "Get fit with the latest fitness trends",
+        "created_at": "2023-09-11T12:33:53.667Z",
+        "updated_at": "2023-09-11T10:31:37.937Z"
+      }
+    ],
+    "search": [
+      {
+        "id": "59ff484f-571e-48e7-8cf7-8c6e2668922a",
+        "query": "iPhone",
+        "filter": "Price range: $500-$1000",
+        "created_at": "2023-09-11T07:33:41.194Z",
+        "updated_at": "2023-09-11T15:25:39.846Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ec4962b-75dd-4175-8071-606247ec4506",
+        "query": "Summer dresses",
+        "filter": "Size: Medium",
+        "created_at": "2023-09-11T03:27:43.207Z",
+        "updated_at": "2023-09-10T23:00:21.268Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a8dff51-d1da-4546-bdcc-156ce3b77c6c",
+        "query": "Italian cuisine",
+        "filter": "Cuisine: Italian",
+        "created_at": "2023-09-10T23:51:41.450Z",
+        "updated_at": "2023-09-10T23:10:12.153Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7762a109-a2c6-4016-9ec0-9072e797db9c",
+        "query": "Beach vacation",
+        "filter": "Location: Caribbean",
+        "created_at": "2023-09-11T17:41:18.351Z",
+        "updated_at": "2023-09-11T14:42:24.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "573e8a02-53bd-4000-98a5-d2ebb9132858",
+        "query": "Yoga classes",
+        "filter": "Level: Beginner",
+        "created_at": "2023-09-11T12:29:23.695Z",
+        "updated_at": "2023-09-11T00:59:07.538Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trend_search": [
+      {
+        "id": "facb48ea-100c-4c4c-995a-29611b69d02e",
+        "created_at": "2023-09-10T23:41:12.625Z",
+        "updated_at": "2023-09-10T23:09:40.731Z",
+        "search_id": "573e8a02-53bd-4000-98a5-d2ebb9132858",
+        "trend_id": "04dc3428-5291-4948-aa23-a8ca3c129dfe"
+      },
+      {
+        "id": "30785fa0-5d60-4f12-b3e8-c38b0461ee07",
+        "created_at": "2023-09-11T16:58:52.550Z",
+        "updated_at": "2023-09-11T02:06:39.237Z",
+        "search_id": "59ff484f-571e-48e7-8cf7-8c6e2668922a",
+        "trend_id": "11f0d44a-ac16-46a7-9e83-5549620a8e6f"
+      },
+      {
+        "id": "9b429846-6c71-4fb4-80b5-deef44defd02",
+        "created_at": "2023-09-11T18:46:50.607Z",
+        "updated_at": "2023-09-11T13:59:44.702Z",
+        "search_id": "0ec4962b-75dd-4175-8071-606247ec4506",
+        "trend_id": "aa9c24d3-b185-4cd8-bce7-ed51a4f9d976"
+      },
+      {
+        "id": "f14a8268-7037-4e60-a1f3-aab2892ea85c",
+        "created_at": "2023-09-11T14:46:31.728Z",
+        "updated_at": "2023-09-11T01:23:30.749Z",
+        "search_id": "0ec4962b-75dd-4175-8071-606247ec4506",
+        "trend_id": "f0d7507b-2aa9-4629-8179-7bdaaf2a6324"
+      },
+      {
+        "id": "61612967-44e1-4064-933b-cb6313f02677",
+        "created_at": "2023-09-11T03:48:42.933Z",
+        "updated_at": "2023-09-10T22:07:26.020Z",
+        "search_id": "59ff484f-571e-48e7-8cf7-8c6e2668922a",
+        "trend_id": "d40bcf06-bdb7-45f5-812c-ced0bbd54ba6"
+      }
+    ],
+    "saved_search": [
+      {
+        "id": "94a5c59e-6715-42ff-94fe-7064468164c3",
+        "created_at": "2023-09-11T09:40:45.910Z",
+        "updated_at": "2023-09-11T14:34:14.287Z",
+        "search_id": "7762a109-a2c6-4016-9ec0-9072e797db9c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5da54045-44f6-4802-b21e-b1c25ac75533",
+        "created_at": "2023-09-11T01:02:06.066Z",
+        "updated_at": "2023-09-11T06:22:32.991Z",
+        "search_id": "7762a109-a2c6-4016-9ec0-9072e797db9c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd7ca0d1-7d3a-4d6c-be5b-a999ed6cb570",
+        "created_at": "2023-09-11T10:05:43.354Z",
+        "updated_at": "2023-09-11T10:13:17.891Z",
+        "search_id": "4a8dff51-d1da-4546-bdcc-156ce3b77c6c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20c37268-92c5-4d95-9184-9748133c08f5",
+        "created_at": "2023-09-11T13:04:07.515Z",
+        "updated_at": "2023-09-11T12:40:17.479Z",
+        "search_id": "573e8a02-53bd-4000-98a5-d2ebb9132858",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e80ae826-a72c-429a-9f70-4f8394faeca7",
+        "created_at": "2023-09-11T00:55:58.152Z",
+        "updated_at": "2023-09-10T23:56:35.446Z",
+        "search_id": "59ff484f-571e-48e7-8cf7-8c6e2668922a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "200d6cfd-39ab-4cc4-a10b-9ffdaaf39c00",
+        "email": "Estrella16@hotmail.com",
+        "firstName": "Junior",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/754.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b6804165-ff7c-4d4e-8eb5-b3f1feaa376c",
+        "email": "Holden.Romaguera28@gmail.com",
+        "firstName": "Will",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/757.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d584c2bc-26e2-44c9-9d96-58f91bfd3d7b",
+        "email": "Seamus1@gmail.com",
+        "firstName": "Eugenia",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/405.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bd7ceb1b-8462-49db-bba8-d1140c676849",
+        "email": "Camylle_Mohr0@gmail.com",
+        "firstName": "Turner",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/44.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e688b0c7-e2e8-4251-a401-249a54440a45",
+        "email": "Lafayette6@hotmail.com",
+        "firstName": "Damon",
+        "lastName": "Crist-Cummings",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/118.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
